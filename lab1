@@ -17,6 +17,9 @@
 <p> Хай вам щастить! </p>
 </div id = "b4"> 
 <div id = "b5"> 
+<div id = "b6">
+<div id = "b7"> 
+</div>
 <table border "1">
 <tr>
 <td colspan = "2"> Діти  </td>
@@ -31,7 +34,6 @@
 <td> 15 </td>
 <td>    </td>
 </tr>
-
-<div id = "b6">
-<div id = "b7"> 
-</div>
+</table>
+</body>
+</html>

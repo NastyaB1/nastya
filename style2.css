@@ -2,13 +2,7 @@ div{border:solid 3px pink;
 margin:5px;}
 #b1{width:100%;
 background-color: yellow}
-#b2{background-color: blue;
- text: font-variant: normal;
-  font-style: italic;
-  font-weight: 600; 
-  font-family: Arial;
- font-size: 3px;
- }
+#b2{background-color: blue;}
 #b3{background-color:grey;
 width:25%;
 margin: 5px;
@@ -17,7 +11,14 @@ float: left;}
 width:60%;
 float: left;
 border:solid 0px grey;
-margin: 5px;}
+margin: 5px;
+text:
+  font-variant: normal;
+  font-style: italic;
+  font-weight: 600; 
+  font-family: Arial;
+ font-size: 3px;
+ }
 #b5{background-color:grey;
  width:13%;
 clear: both;

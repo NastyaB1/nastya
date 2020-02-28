@@ -3,8 +3,12 @@ margin:5px;}
 #b1{width:100%;
 background-color: yellow}
 #b2{background-color: blue;
- text: font-style: italic; 3px Arial;  
-  widht:600;}
+ text: font-variant: normal;
+  font-style: italic;
+  font-weight: 600; 
+  font-family: Arial;
+ font-size: 3px;
+ }
 #b3{background-color:grey;
 width:25%;
 margin: 5px;

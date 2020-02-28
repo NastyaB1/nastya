@@ -1,10 +1,10 @@
 div{border:solid 3px pink;
 margin:5px;}
-#b1{width:60%;
+#b1{width:100%;
 background-color: yellow}
 #b2{background-color: blue;}
 #b3{background-color:grey;
-width:25%;
+width:100%;
 margin: 5px;
 float: left;}
 #b4{background-color:grey;

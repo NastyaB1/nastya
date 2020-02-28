@@ -2,7 +2,8 @@ div{border:solid 3px pink;
 margin:5px;}
 #b1{width:100%;
 background-color: yellow}
-#b2{background-color: blue;}
+#b2{background-color: blue;
+font-style: italic}
 #b3{background-color:grey;
 width:25%;
 margin: 5px;

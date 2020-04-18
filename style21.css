@@ -1,6 +1,5 @@
 div{border:solid 3px #c79493;
 margin:5px;font-style:oblique;
-font-variant:small-caps;
  font-weight:50;
  letter-spacing: 0.5em;
  font-size:14pt;}
@@ -19,6 +18,5 @@ border:solid 3px #5671a2;
 margin: 5px;letter-spacing: 0.4em;}
 #b5{background-color:#8eb1f1;border:solid 3px #5671a2;
  width:13%;
- float: left;
 clear: both;
 margin: 5px;}
